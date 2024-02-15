@@ -1,0 +1,126 @@
+<year_summary>
+  <year>2010</year>
+  <num_movies>18</num_movies>
+  <avg_runtime>114.77777777777777</avg_runtime>
+  <oscar_winner>The King's Speech</oscar_winner>
+  <oscar_winner>Black Swan</oscar_winner>
+  <oscar_winner>The Fighter</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2011</year>
+  <num_movies>16</num_movies>
+  <avg_runtime>122</avg_runtime>
+  <oscar_winner>The Help</oscar_winner>
+  <oscar_winner>The Artist</oscar_winner>
+  <oscar_winner>The Iron Lady</oscar_winner>
+  <oscar_winner>Beginners</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2012</year>
+  <num_movies>21</num_movies>
+  <avg_runtime>126.76190476190476</avg_runtime>
+  <oscar_winner>Lincoln</oscar_winner>
+  <oscar_winner>Argo</oscar_winner>
+  <oscar_winner>Silver Linings Playbook</oscar_winner>
+  <oscar_winner>Django Unchained</oscar_winner>
+  <oscar_winner>Les Miserables</oscar_winner>
+  <oscar_winner>Life of Pi</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2013</year>
+  <num_movies>18</num_movies>
+  <avg_runtime>121.5</avg_runtime>
+  <oscar_winner>Gravity</oscar_winner>
+  <oscar_winner>12 Years a Slave</oscar_winner>
+  <oscar_winner>Dallas Buyers Club</oscar_winner>
+  <oscar_winner>Blue Jasmine</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2014</year>
+  <num_movies>19</num_movies>
+  <avg_runtime>126.84210526315789</avg_runtime>
+  <oscar_winner>Birdman: Or</oscar_winner>
+  <oscar_winner>The Theory of Everything</oscar_winner>
+  <oscar_winner>Still Alice</oscar_winner>
+  <oscar_winner>Whiplash</oscar_winner>
+  <oscar_winner>Boyhood</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2015</year>
+  <num_movies>16</num_movies>
+  <avg_runtime>129.5625</avg_runtime>
+  <oscar_winner>Spotlight</oscar_winner>
+  <oscar_winner>The Revenant</oscar_winner>
+  <oscar_winner>Room</oscar_winner>
+  <oscar_winner>Bridge of Spies</oscar_winner>
+  <oscar_winner>The Danish Girl</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2016</year>
+  <num_movies>20</num_movies>
+  <avg_runtime>122.85</avg_runtime>
+  <oscar_winner>Moonlight</oscar_winner>
+  <oscar_winner>Manchester by the Sea</oscar_winner>
+  <oscar_winner>La La Land</oscar_winner>
+  <oscar_winner>Fences</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2017</year>
+  <num_movies>16</num_movies>
+  <avg_runtime>134.125</avg_runtime>
+  <oscar_winner>The Shape of Water</oscar_winner>
+  <oscar_winner>Darkest Hour</oscar_winner>
+  <oscar_winner>Three Billboards Outside Ebbing, Missouri</oscar_winner>
+  <oscar_winner>I, Tonya</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2018</year>
+  <num_movies>18</num_movies>
+  <avg_runtime>126.72222222222223</avg_runtime>
+  <oscar_winner>Bohemian Rhapsody</oscar_winner>
+  <oscar_winner>Green Book</oscar_winner>
+  <oscar_winner>The Favourite</oscar_winner>
+  <oscar_winner>If Beale Street Could Talk</oscar_winner>
+  <oscar_winner>Roma</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2019</year>
+  <num_movies>15</num_movies>
+  <avg_runtime>132.33333333333334</avg_runtime>
+  <oscar_winner>Joker</oscar_winner>
+  <oscar_winner>Parasite</oscar_winner>
+  <oscar_winner>Judy</oscar_winner>
+  <oscar_winner>Once Upon a Time... In Hollywood</oscar_winner>
+  <oscar_winner>Marriage Story</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2020</year>
+  <num_movies>3</num_movies>
+  <avg_runtime>106.33333333333333</avg_runtime>
+  <oscar_winner>Nomadland</oscar_winner>
+  <oscar_winner>The Father</oscar_winner>
+  <oscar_winner>Judas and the Black Messiah</oscar_winner>
+  <oscar_winner>Minari</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2021</year>
+  <num_movies>9</num_movies>
+  <avg_runtime>129.55555555555554</avg_runtime>
+  <oscar_winner>King Richard</oscar_winner>
+  <oscar_winner>The Power of the Dog</oscar_winner>
+  <oscar_winner>CODA</oscar_winner>
+  <oscar_winner>The Eyes of Tammy Faye</oscar_winner>
+  <oscar_winner>West Side Story</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2022</year>
+  <num_movies>10</num_movies>
+  <avg_runtime>139.3</avg_runtime>
+  <oscar_winner>Everything Everywhere All at Once</oscar_winner>
+  <oscar_winner>The Whale</oscar_winner>
+</year_summary>
+<year_summary>
+  <year>2023</year>
+  <num_movies>6</num_movies>
+  <avg_runtime>135.16666666666666</avg_runtime>
+</year_summary>
